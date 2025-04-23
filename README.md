@@ -3,7 +3,7 @@ A powerful, automated script that installs and configures 300+ offensive securit
 
 # Offensive Security Toolkit Installer
 
-![offsec-toolkit](https://github.com/user-attachments/assets/56fbdc33-753f-44df-8923-7ab5d84a0fa7)
+![offsec-toolkit](https://github.com/user-attachments/assets/027e7457-0a5e-4cab-bf20-444d402f454f)
 
 A comprehensive, automated installer for offensive security tools with parallel installation capabilities, credential management, and robust error handling.
 
@@ -125,6 +125,7 @@ Errors are logged to: `~/Tools/install.log`
 
 ## Sample Output
 
+![Output](https://github.com/user-attachments/assets/281ab6f6-0f33-4014-9fb5-e7f3fa8d7dc5)
 
 ## Troubleshooting
 
