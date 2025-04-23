@@ -150,7 +150,7 @@ check_system() {
     fi
 
     # Check dependencies
-    local deps=("git" "curl" "wget" "python3" "pip3" "make" "gcc" "unzip" "tar" "xz-utils")
+    local deps=("git" "curl" "wget" "python3" "pip3" "make" "gcc" "unzip" "tar" "xz")
     local missing=()
     local optional_deps=("docker" "ruby" "go" "rustc" "cargo")
     local missing_optional=()
