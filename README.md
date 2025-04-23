@@ -156,7 +156,7 @@ cat ~/Tools/install.log
 ```
 
 ## License
-`MIT License - See LICENSE for details.`
+`GPL-3.0 License - See LICENSE for details.`
 
 ## Author
 `Zubair Usman (Mr.Pop3y3)`
