@@ -1,7 +1,3 @@
-# Offensive Security Tools Repository
-
-## Repository Name Suggestion: **OffensiveSecurityToolkit**
-
 ## Comprehensive List of Security Tools
 
 ### Reconnaissance Tools
